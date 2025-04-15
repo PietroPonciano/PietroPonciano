@@ -4,6 +4,26 @@
 
 Me chamo Pietro, tenho 17 anos e sou apaixonado por programação. Desde os 9 anos, venho explorando o mundo da tecnologia, sempre buscando aprender e evoluir. Atualmente, estou focado no estudo de linguagens como Python, PHP e JavaScript, com ênfase em projetos voltados ao desenvolvimento web e automação. Tenho interesse em seguir na área de tecnologia, aprimorando minhas habilidades e contribuindo com soluções inovadoras.
 
+<p align="left">
+    <a href="https://www.linkedin.com/in/pietro-gonçalves-ponciano-596a58304/">
+        <img 
+            title="Me siga no linkedin" 
+            align="left" 
+            alt="CSS" 
+            title="CSS"
+            width="30px" 
+            style="padding-right: 10px;"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/pietro-gonçalves-ponciano-596a58304/">
+    Pietro Ponciano
+    </a>
+</p>
+
+
+
+
 ---
 ### 🤖 Linguagens e Tecnologias
 
