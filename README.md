@@ -120,4 +120,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroPonciano&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PietroPonciano&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PietroPonciano&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
 </p>
