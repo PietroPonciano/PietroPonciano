@@ -115,6 +115,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PietroPonciano&repo=portfolio&theme=dark)](https://github.com/PietroPonciano/portfolio)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PietroPonciano&repo=portfolio&theme=dark)](https://github.com/PietroPonciano/projeto-vida-equilibrada)
+
 ---
 ### 📊 Estatísticas
 
