@@ -2,7 +2,7 @@
 
 **`Desenvolvedor WEB`**
 
-Me chamo Pietro, tenho 17 anos e sou apaixonado por programação. Desde os 9 anos, venho explorando o mundo da tecnologia, sempre buscando aprender e evoluir. Atualmente, estou focado no estudo de linguagens como Python, PHP e JavaScript, com ênfase em projetos voltados ao desenvolvimento web e automação. Tenho interesse em seguir na área de tecnologia, aprimorando minhas habilidades e contribuindo com soluções inovadoras.
+Me chamo Pietro, tenho 17 anos e sou apaixonado por programação. Desde os 9 anos, venho explorando o mundo da tecnologia, sempre buscando aprender e evoluir. Atualmente, estou focado no estudo de linguagens como Python, Node e React, com ênfase em projetos voltados ao desenvolvimento web e automação. Tenho interesse em seguir na área de tecnologia, aprimorando minhas habilidades e contribuindo com soluções inovadoras.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/pietro-gonçalves-ponciano-596a58304/">
