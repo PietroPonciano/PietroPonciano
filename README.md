@@ -129,6 +129,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
 />
 
+<img 
+    align="left" 
+    alt="Django" 
+    title="Django"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
+/>
+
           
 
 <br/>
