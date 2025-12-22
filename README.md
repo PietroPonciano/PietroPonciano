@@ -25,7 +25,6 @@
 
 - ⚛️ React (Hooks e Componentização)
 - 🌐 Node.js (APIs REST)
-- 🐍 Python (Automação e Back-end)
 - 🗄️ Bancos de dados SQL
 - 🧠 Boas práticas e lógica
 
