@@ -49,8 +49,8 @@ I am open to connections, knowledge sharing, and opportunities.
   <a href="https://github.com/PietroPonciano/E-comercio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PietroPonciano&repo=E-comercio&theme=transparent&border_color=0A66C2&title_color=0A66C2" alt="E-comercio" />
   </a>
-  <a href="https://github.com/PietroPonciano/precoja-IA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PietroPonciano&repo=precoja-IA&theme=transparent&border_color=0A66C2&title_color=0A66C2" alt="precoja-IA" />
+  <a href="https://github.com/PietroPonciano/projeto-vida-equilibrada">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PietroPonciano&repo=projeto-vida-equilibrada&theme=transparent&border_color=0A66C2&title_color=0A66C2" alt="VidaEquilibrada" />
   </a>
   <a href="https://github.com/PietroPonciano/api-restaurante">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PietroPonciano&repo=api-restaurante&theme=transparent&border_color=0A66C2&title_color=0A66C2" alt="api-restaurante" />
