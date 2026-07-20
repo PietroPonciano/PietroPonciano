@@ -83,7 +83,7 @@ Hoje, como desenvolvedor em formação, meu foco é construir uma base técnica 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=PietroPonciano&theme=transparent&border=0A66C2&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2](https://streak-stats.demolab.com/?user=PietroPonciano&theme=default" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=PietroPonciano&theme=transparent&border=0A66C2&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2](https://streak-stats.demolab.com/?user=PietroPonciano&theme=defaul](https://streak-stats.demolab.com/?user=PietroPonciano&theme=transparent" alt="GitHub Streak" />
 </div>
 
 <br>
